@@ -5,7 +5,7 @@ dropbox
 
 ### 歌词显示
 
-wine + foobar2000
+wine + [foobar2000](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/foobar2000)
 
 ### 歌词搜索
 

@@ -1,5 +1,7 @@
 
-[安装](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Installation_Manual/CrossOver)
+[安装软件](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Installation_Manual/CrossOver)
+
+使用软件：注意字体优化和一个瓶子里的程序显示的语言
 
 ```
 1.

@@ -3,7 +3,7 @@
 
 ```
 虚拟机设置
-完全隔绝民用系统和虚拟机系统，仅有文件共享
+(既然不要融合模式)完全隔绝民用系统和虚拟机系统，仅有文件共享
 
 Options - Sharing
 Home folder only
@@ -14,6 +14,9 @@ Options - Applications
 
 ```
 = = = 脑容量回收站 = = =
+
+融合模式：放弃
+(在 10.11.5 用官方版本软件 无法开启融合模式)
 
 [PD](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/ParallelsDesktop)
 

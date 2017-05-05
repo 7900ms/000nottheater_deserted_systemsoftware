@@ -5,7 +5,7 @@ MusicPlayer-Fb2k-ttplayer.zip
 
 [dropbox](#) 负责保存歌词
 
-[pd](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/ParallelsDesktop) 用于辅助歌词
+[pd](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/ParallelsDesktop) 用于辅助歌词并配合wine的工作
 
 ```
 1.

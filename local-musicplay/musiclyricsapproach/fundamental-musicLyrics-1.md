@@ -14,9 +14,9 @@ wine + [foobar2000](https://github.com/7900ms/000nottheater_deserted_systemsoftw
 
 PD + foobar2000
 
-```
-= = = 脑容量回收站(原碎碎念) = = =
 
+= = = 脑容量回收站(原碎碎念) = = =
+```
 歌词相关软件1 和iTunes配合
 MiniLyrics
 LessLyrics

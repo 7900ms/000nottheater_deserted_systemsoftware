@@ -1,6 +1,12 @@
 
 MusicPlayer-Fb2k-ttplayer.zip
 
+[wine](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/CrossOver) 用于基本歌曲播放功能(歌曲列表、拖入歌曲、歌词显示)
+
+[dropbox](#) 负责保存歌词
+
+[pd](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/ParallelsDesktop) 用于辅助歌词
+
 ```
 1.
 预备 - 打通wine和pd

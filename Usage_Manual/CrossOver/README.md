@@ -1,3 +1,6 @@
+
+[安装](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Installation_Manual/CrossOver)
+
 ```
 1.
 新建容器 win7

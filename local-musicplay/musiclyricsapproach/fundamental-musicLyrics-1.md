@@ -34,6 +34,7 @@ TTPlayer
 
 TTPlayer 在 wine 下很容易崩溃
 
+TTPlayer 有咬掉ini的现象
 
 
 -

@@ -1,11 +1,10 @@
 
 ```
-1. 预备 - 打通wine和pd
+1.
+预备 - 打通wine和pd
 
 - 为什么要打通wine和pd<br>
 通过打通wine和pd可以让同一份程序 直接在2个系统里运行。这样在两个系统里的歌词下载、显示、歌曲播放路径 都是一样的
-
-- 共享
 
 PD foobar2000 (和PD共享Home目录)
 
@@ -14,7 +13,8 @@ PD foobar2000 (和PD共享Home目录)
 Y~~~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
 
 
-2. 在wine运行
+2.
+在wine运行
 
 crossover foobar2000
 ~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
@@ -24,7 +24,8 @@ Y:\Dropbox\lyrics aka(~/Dropbox/lyrics)
 
 
 
-3. 在pd里运行
+3.
+在pd里运行
 
 共享软件路径：
 Y~~~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
@@ -33,7 +34,8 @@ Y~~~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/fo
 Y:\Dropbox\lyrics
 
 
-4.结果
+4.
+结果
 
 crossover 的 Y盘 (/目录) 和 PD视角的 Y盘 (~/目录) 是链接起来的
 

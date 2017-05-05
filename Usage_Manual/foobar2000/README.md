@@ -1,7 +1,7 @@
 
 MusicPlayer-Fb2k-ttplayer.zip
 
-[wine](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/CrossOver) 用于基本歌曲播放功能(歌曲列表、拖入歌曲、歌词显示)
+[wine](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/CrossOver) 用于建立win7瓶子并用fb2k，有基本歌曲播放功能(歌曲列表、拖入歌曲、歌词显示)
 
 [dropbox](#) 负责保存歌词
 

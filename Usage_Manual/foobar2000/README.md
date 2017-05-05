@@ -32,6 +32,7 @@ Y:\Dropbox\lyrics
 
 crossover 的 Y盘 (/目录) 和 PD视角的 Y盘 (~/目录) 是链接起来的
 
-在wine里拖入的歌曲，可以在pd里播放
+- wine-fb2k 和 pd-fb2k
+在wine里拖入的歌曲，可以在pd里播放；在pd里搜到并保存的歌词，可以在wine里显示
 
 -

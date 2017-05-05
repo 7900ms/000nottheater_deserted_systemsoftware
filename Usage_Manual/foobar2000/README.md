@@ -7,6 +7,8 @@ MusicPlayer-Fb2k-ttplayer.zip
 
 [pd](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/ParallelsDesktop) 用于辅助歌词并配合wine的工作
 
+最终一份fb2k程序可以播放、显示歌词、搜索歌词。它受到了wine的支持和pd的辅助
+
 ```
 1.
 预备 - 打通wine和pd

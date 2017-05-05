@@ -1,4 +1,8 @@
 
+[软件安装](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Installation_Manual/ParallelsDesktop)
+
+软件使用：
+
 配合[foobar2000](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/foobar2000)做
 
 ```

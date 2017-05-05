@@ -6,6 +6,10 @@ dropbox
 - 歌词文件夹
 ~/Dropbox/lyrics 即 /Users/$(logname)/Dropbox/lyrics
 
+#### 歌词显示原理
+
+在wine里拖入的歌曲，可以在pd里播放；<br>在pd里搜到并保存的歌词，可以在wine里显示
+
 #### 歌词显示
 
 wine + [foobar2000](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/foobar2000)

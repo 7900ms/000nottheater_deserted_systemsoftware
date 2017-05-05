@@ -35,9 +35,9 @@ TTPlayer
 点名：
 和iTunes配合的歌词软件 都 歌词很少
 
-TTPlayer 在 wine 下很容易崩溃
+TTPlayer 在 wine 下很容易崩溃，拖入歌曲时崩溃
 
-TTPlayer 有咬掉ini的现象
+TTPlayer 有咬掉ini的[现象](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/TTPlayer)
 
 
 -

@@ -10,11 +10,11 @@ dropbox
 
 在wine里拖入的歌曲，可以在pd里播放；<br>在pd里搜到并保存的歌词，可以在wine里显示 (同时保存到了dropbox)
 
-#### 歌词显示
+#### 播放器
 
 wine + [foobar2000](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/foobar2000)
 
-#### 歌词搜索
+#### 辅助软件
 
 PD + foobar2000
 

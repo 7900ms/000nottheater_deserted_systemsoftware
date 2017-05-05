@@ -6,6 +6,7 @@
 检查区：
 fb2k直接在2个系统里运行
 打通wine和pd，通过打通wine和pd可以让同一份程序 直接在2个系统里运行。这样在两个系统里的歌词下载、显示、歌曲播放路径 都是一样的
+在wine里拖入的歌曲，可以在pd里播放；在pd里搜到并保存的歌词，可以在wine里显示
 
 配置区：
 PD foobar2000 (和PD共享Home目录)
@@ -41,7 +42,7 @@ Y:\Dropbox\lyrics
 
 crossover 的 Y盘 (/目录) 和 PD视角的 Y盘 (~/目录) 是链接起来的
 
-- wine-fb2k 和 pd-fb2k
+wine-fb2k 和 pd-fb2k
 在wine里拖入的歌曲，可以在pd里播放；在pd里搜到并保存的歌词，可以在wine里显示
 
 -

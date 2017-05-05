@@ -3,6 +3,9 @@
 
 dropbox
 
+- 歌词文件夹
+~/Dropbox/lyrics 即 /Users/$(logname)/Dropbox/lyrics
+
 ### 歌词显示
 
 wine + [foobar2000](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/foobar2000)

@@ -1,5 +1,5 @@
 
-- TTPlayer 被替代里
+- TTPlayer 被替代了<br>
 用 foobar2k 在 wine 或 pd 里运行
 
 = = = 脑容量回收站(原碎碎念) = = =

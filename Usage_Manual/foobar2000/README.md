@@ -48,3 +48,7 @@ wine-fb2k 和 pd-fb2k
 -
 
 ```
+
+= = = 脑容量回收站 = = =
+
+[fb2k](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/foobar2000)

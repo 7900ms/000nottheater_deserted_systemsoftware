@@ -7,4 +7,6 @@
 
 歌词文件位置 ~/Dropbox/lyrics
 
+本系统程序 ~/Library/Application Support/XMenu/Custom/Music
+
 -

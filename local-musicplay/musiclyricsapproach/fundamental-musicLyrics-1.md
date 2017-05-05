@@ -1,16 +1,16 @@
 
-### 歌词备份
+#### 歌词备份
 
 dropbox
 
 - 歌词文件夹
 ~/Dropbox/lyrics 即 /Users/$(logname)/Dropbox/lyrics
 
-### 歌词显示
+#### 歌词显示
 
 wine + [foobar2000](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/foobar2000)
 
-### 歌词搜索
+#### 歌词搜索
 
 PD + foobar2000
 

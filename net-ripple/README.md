@@ -13,3 +13,8 @@ xx网站充值、xx网站提现
 - [国内行情](http://chart.ripplefox.com)
 
 -
+
+= = = 脑容量回收站 = = =
+
+[1](https://www.v2ex.com/t/359513)
+[2](https://www.v2ex.com/t/359800)

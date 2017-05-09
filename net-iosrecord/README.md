@@ -11,6 +11,7 @@
 SoundCloud+AudioCopy录音
 * 自带录音机+某个workflow
 直接保存成mp4到CameraRoll里
+Evernote录音
 
 
 

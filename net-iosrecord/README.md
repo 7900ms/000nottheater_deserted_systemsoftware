@@ -1,6 +1,6 @@
 
 = = = 脑容量回收站 = = =
-
+```
 手机录音
 
 基本
@@ -26,7 +26,8 @@ Evernote 文件夹
 
 
 
-
+```
+[iOS 有哪些录音 App 可以推荐？ - 知乎 mp4](https://www.zhihu.com/question/20878733)
 [musicgadgetapproach](https://github.com/7900ms/00nottheater_deserted/tree/master/book/musicgadgetapproach)
 
 -

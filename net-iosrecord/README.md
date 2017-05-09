@@ -31,3 +31,8 @@ Evernote 文件夹
 [musicgadgetapproach](https://github.com/7900ms/00nottheater_deserted/tree/master/book/musicgadgetapproach)
 
 -
+
+- Voice Record Pro [1](https://youtu.be/OlVOn0XxKIk?t=6m16s)
+- Recorder Plus
+
+- http://www.idownloadblog.com/2016/05/22/best-voice-recording-apps-iphone-ipad/

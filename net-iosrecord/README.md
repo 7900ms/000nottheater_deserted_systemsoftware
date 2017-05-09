@@ -13,6 +13,18 @@ SoundCloud+AudioCopy录音
 直接保存成mp4到CameraRoll里
 Evernote录音
 
+问题：
+打开得方便不方便 排序：
+SoundCloud
+Google Photos 相册
+Evernote 文件夹
+
+上传得方不方便 排序：
+自动上传并标记出已上传
+手动上传并标记出已上传
+手动上传(不标记出)
+
+
 
 
 [musicgadgetapproach](https://github.com/7900ms/00nottheater_deserted/tree/master/book/musicgadgetapproach)

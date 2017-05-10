@@ -26,7 +26,7 @@ Evernote 文件夹
 
 怎么弄：
 录完直接自动直接上传(自动上传到网盘)，听的时候在网上听(听的界面简洁像iOS自带录音机)。录完回听咋整
-新软件：telegram voice memo
+新软件：telegram voice memo (但是得一直按着“发言键”才能说话)
 
 
 ```

@@ -11,6 +11,8 @@ record voice ios auto backup sync
 - - 别人不懂行,求新求快求花哨 最后机器损耗大 吃亏的是自己
 - - “那样式的”软件宣传对谁有[利](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-听行家的导致被坑.md)
 
+(感觉花里胡哨、感觉笨重)
+
 怎么被兜售软件：
 - 功能强大
 - 高级功能解锁

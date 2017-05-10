@@ -9,7 +9,7 @@
 
 软件
 SoundCloud+AudioCopy录音
-* 自带录音机+某个workflow
+* 自带录音机+某个workflow(做到能自动上传到云端)
 直接保存成mp4到CameraRoll里
 Evernote录音
 

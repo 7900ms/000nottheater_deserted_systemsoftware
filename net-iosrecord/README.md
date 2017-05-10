@@ -7,7 +7,7 @@ record voice ios auto backup sync
 - 大众用
 - 大众软件就足矣 不差就行,非大众用软件 不用
 - 自我鼓励 心情好
-- - 电脑软件 - 对经典软件式的功能保持好感！！！经典有用不花哨。远离花里胡哨的软件(花里胡哨的功能)(占空间 占内存 占网络流量)！！！
+- - 电脑软件 - 经典有用不花哨。远离花里胡哨的软件(花里胡哨的功能)(占空间 占内存 占网络流量)！！！
 - - 别人不懂行,求新求快求花哨 最后机器损耗大 吃亏的是自己
 - - “那样式的”软件宣传对谁有[利](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-听行家的导致被坑.md)
 

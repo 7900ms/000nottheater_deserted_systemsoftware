@@ -1,6 +1,12 @@
 
 record voice ios auto backup sync
 
+基本录音界面:
+默认录音软件,录音过程无需新界面
+
+基本上传:
+iCloud
+
 = = = 脑容量回收站 = = =
 ```
 手机录音

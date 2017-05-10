@@ -6,6 +6,7 @@ record voice ios auto backup sync
 - 小巧稳定
 - 大众用
 - 大众软件就足矣 不差就行,非大众用软件 不用
+- 自我鼓励
 
 怎么被兜售软件：
 - 功能强大

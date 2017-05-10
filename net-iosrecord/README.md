@@ -49,7 +49,7 @@ iCloud
 软件
 SoundCloud+AudioCopy录音
 * 自带录音机+某个workflow(做到能自动上传到云端)
-直接保存成mp4到CameraRoll里
+直接保存成mp4到CameraRoll里<Voice Record Pro 有广告>
 Evernote录音
 
 问题：

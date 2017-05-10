@@ -2,15 +2,17 @@
 record voice ios auto backup sync
 
 怎么挑软件：
+- 承认自己是大众需求
 - 小巧稳定
 - 大众用
+- 大众需求就足矣 不差就行
 
 怎么被兜售软件：
 - 功能强大
 - 高级功能解锁
 - 其他软件本身feature 造成一种大家都不识货的感觉
 - 本周居然啊在打折
-- 这种玩意上 宣言小厂家的好
+- 这种玩意上 宣言小厂家的好, 没人用的东西宣扬thebestof...
 - 不看大软件公司[--](https://github.com/7900ms/theater_deserted/blob/master/ACDSee的故事.md)
 
 基本录音界面:

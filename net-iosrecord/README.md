@@ -1,4 +1,6 @@
 
+record voice ios auto backup sync
+
 = = = 脑容量回收站 = = =
 ```
 手机录音

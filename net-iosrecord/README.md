@@ -79,5 +79,6 @@ Evernote 文件夹
 - x Voice Record Pro [1](https://youtu.be/OlVOn0XxKIk?t=6m16s) (有广告)
 - x Recorder Plus (付费)
 - Voice Recoder by TapMedia
+- SoundCloud+AudioCopy录音 (无法自动上传)
 
 - http://www.idownloadblog.com/2016/05/22/best-voice-recording-apps-iphone-ipad/

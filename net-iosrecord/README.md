@@ -80,7 +80,7 @@ Evernote 文件夹
 
 - x [Voice Record Pro](https://itunes.apple.com/us/app/voice-record-pro/id546983235?mt=8) [1](https://youtu.be/OlVOn0XxKIk?t=6m16s) (有广告)
 - x [Recorder Plus](https://itunes.apple.com/us/app/recorder-plus-audio-and-voice-memo-recording/id884644433?mt=8&ign-mpt=uo%3D4) (付费)
-- Voice Recoder by TapMedia [--](https://itunes.apple.com/us/app/voice-recorder-free/id685310398?mt=8)
+- Voice Recoder by TapMedia (笨重)[--](https://itunes.apple.com/us/app/voice-recorder-free/id685310398?mt=8)
 - SoundCloud+[AudioCopy](https://itunes.apple.com/us/app/audiocopy/id719137307?mt=8)录音 (无法自动上传)
 
 - http://www.idownloadblog.com/2016/05/22/best-voice-recording-apps-iphone-ipad/

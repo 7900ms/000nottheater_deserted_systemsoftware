@@ -6,6 +6,7 @@
 基本
 上传到能看的网络(SoundCloud)
 有好的上传办法
+自动上传
 
 软件
 SoundCloud+AudioCopy录音

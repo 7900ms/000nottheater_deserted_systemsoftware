@@ -19,8 +19,9 @@ record voice ios auto backup sync
 ```
 抛弃的：
 (小众软件果然不好用)
-Voice Record Pro 有广告
 Voice Recoder 千人推荐,可用作正式长录音 !!!
+SoundCloud+AudioCopy 大网站
+Voice Record Pro 有广告
 Recorder Plus xxxxx
 ```
 

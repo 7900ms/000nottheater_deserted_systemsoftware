@@ -10,6 +10,8 @@ record voice ios auto backup sync
 - 高级功能解锁
 - 其他软件本身feature 造成一种大家都不识货的感觉
 - 本周居然啊在打折
+- 这种玩意上 宣言小厂家的好
+- 不看大软件公司[--](https://github.com/7900ms/theater_deserted/blob/master/ACDSee的故事.md)
 
 基本录音界面:
 默认录音软件,录音过程无需新界面

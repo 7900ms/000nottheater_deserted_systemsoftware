@@ -13,8 +13,19 @@ record voice ios auto backup sync
 - 其他软件本身feature 造成一种大家都不识货的感觉
 - 本周居然啊在打折
 - 这种玩意上 宣言小厂家的好, 没人用的东西宣扬thebestof...
+- 像兜售名人字画(珍贵 少数人识货,一般人不配使用,别人不配使用)一样卖软件(越小众越像是好)
 - 不看大软件公司[--](https://github.com/7900ms/theater_deserted/blob/master/ACDSee的故事.md)
 
+```
+抛弃的：
+(小众软件果然不好用)
+Voice Record Pro
+Voice Recoder 千人推荐,可用作正式录音
+Recorder Plus xxxxx
+```
+
+
+拍
 基本录音界面:
 默认录音软件,录音过程无需新界面
 

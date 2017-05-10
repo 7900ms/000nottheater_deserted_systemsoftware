@@ -23,7 +23,7 @@ record voice ios auto backup sync
 ```
 抛弃的：
 (小众软件果然不好用)
-Voice Recoder 千人推荐,可用作正式长录音 !!!
+Voice Recoder by TapMedia 千人推荐,可用作正式长录音 !!!
 SoundCloud+AudioCopy 大网站
 Voice Record Pro 有广告
 Recorder Plus xxxxx
@@ -74,7 +74,10 @@ Evernote 文件夹
 
 -
 
-- Voice Record Pro [1](https://youtu.be/OlVOn0XxKIk?t=6m16s)
-- Recorder Plus
+= = = 脑容量回收站 = = =
+
+- x Voice Record Pro [1](https://youtu.be/OlVOn0XxKIk?t=6m16s) (有广告)
+- x Recorder Plus (付费)
+- Voice Recoder by TapMedia
 
 - http://www.idownloadblog.com/2016/05/22/best-voice-recording-apps-iphone-ipad/

@@ -21,7 +21,7 @@ record voice ios auto backup sync
 - 这种玩意上 宣言小厂家的好, 没人用的东西宣扬thebestof...
 - 像兜售名人字画(珍贵 少数人识货,一般人不配使用,别人不配使用)一样卖软件(越小众越像是好)
 - 不看大软件公司[--](https://github.com/7900ms/theater_deserted/blob/master/ACDSee的故事.md)
-- 让人不知道[自己姓啥](https://twitter.com/CuteAnimalsPIX/status/860928576287383554)
+- 鼓励小老百姓不再是小老百姓(而是上帝,是艺术家)，让人不知道[自己姓啥](https://twitter.com/CuteAnimalsPIX/status/860928576287383554)
 
 ```
 抛弃的：

@@ -24,6 +24,7 @@ record voice ios auto backup sync
 - 鼓励小老百姓不再是小老百姓(而是上帝,是艺术家)，让人不知道[自己姓啥](https://twitter.com/CuteAnimalsPIX/status/860928576287383554)
 - 鼓吹‘系统是安全的’而导出‘病毒伤不了系统’，淡化 ‘小软件可能有病毒’ 的概念
 - 知道 ‘linux比win安全性高’ ，不知道 安全性高也得防病毒啊 => 故意忽略 ‘小软件 比 大软件公司的软件 更可能有电脑病毒’
+- 怎么让人相信一个 fool 的 endorsement
 
 ```
 抛弃的：

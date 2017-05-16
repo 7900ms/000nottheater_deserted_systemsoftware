@@ -23,6 +23,7 @@ record voice ios auto backup sync
 - 不看大软件公司[--](https://github.com/7900ms/theater_deserted/blob/master/ACDSee的故事.md)
 - 鼓励小老百姓不再是小老百姓(而是上帝,是艺术家)，让人不知道[自己姓啥](https://twitter.com/CuteAnimalsPIX/status/860928576287383554)
 - 鼓吹‘系统是安全的’而导出‘病毒伤不了系统’，淡化 ‘小软件可能有病毒’ 的概念
+- 知道 ‘linux比win安全性高’ ，忽略 ‘小软件 比 大软件公司的软件 更可能有电脑病毒’
 
 ```
 抛弃的：

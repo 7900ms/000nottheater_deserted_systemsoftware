@@ -22,6 +22,7 @@ record voice ios auto backup sync
 - 像兜售名人字画(珍贵 少数人识货,一般人不配使用,别人不配使用)一样卖软件(越小众越像是好)
 - 不看大软件公司[--](https://github.com/7900ms/theater_deserted/blob/master/ACDSee的故事.md)
 - 鼓励小老百姓不再是小老百姓(而是上帝,是艺术家)，让人不知道[自己姓啥](https://twitter.com/CuteAnimalsPIX/status/860928576287383554)
+- 鼓吹‘系统是安全的’而导出‘病毒伤不了系统’，淡化 ‘小软件可能有病毒’ 的概念
 
 ```
 抛弃的：

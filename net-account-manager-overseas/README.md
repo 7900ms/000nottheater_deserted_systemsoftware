@@ -7,9 +7,14 @@
 
 总之，所有帐户都可以丢掉 重新申请新的
 
+```
 两步验证：
 一般网页：authy, GV
-一般网页：Apple Store(用于下载authy和GV) 老爹手机号
+(所以，只要拿到 authy 和 GV 就可以)
+authy 依赖 apple store 和 gv
+gv 依赖 apple store 和 老爹手机号
+
+```
 
 ## 大陆网站的特点和管理
 

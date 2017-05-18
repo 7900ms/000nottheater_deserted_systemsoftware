@@ -9,7 +9,7 @@
 
 本系统程序 ~/Library/Application Support/XMenu/Custom/Music
 
-(先看 player 再看 lyrics)
+(先看 player 再看 lyrics。不要那种[Usage_Manual/foobar2000](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/foobar2000)旧结构)
 
 ![](http://i.imgur.com/nplPZr7.png)
 

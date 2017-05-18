@@ -14,7 +14,8 @@
 authy 依赖 apple store 和 gv
 gv 依赖 apple store 和 老爹手机号
 
-两步验证 可以考虑整体关闭。等有了新的手机号 再开启
+根·两步验证 可以考虑整体关闭。等有了新的手机号 再开启
+根·两步验证: app store, 某gmail 某hotmail
 ```
 
 ## 大陆网站的特点和管理

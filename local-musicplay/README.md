@@ -9,6 +9,8 @@
 
 本系统程序 ~/Library/Application Support/XMenu/Custom/Music
 
+(先看 player 再看 lyrics)
+
 ![](http://i.imgur.com/nplPZr7.png)
 
 -

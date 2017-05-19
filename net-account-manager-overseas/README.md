@@ -21,7 +21,7 @@ gv 依赖 apple store 和 老爹手机号
 ```
 
 <br><br><br>
-[朴素，简约](ttps://github.com/7900ms/notinternet_deserted/blob/master/small/澳洲华人及中国留学生之家.md)
+朴素，简约[：](https://github.com/7900ms/notinternet_deserted/blob/master/small/澳洲华人及中国留学生之家.md)
 ```
 email 联络方式：
 一个匿名方式

@@ -8,3 +8,7 @@
 - Android
 - iOS
 - tutorial [--](https://www.youtube.com/watch?v=7-_axpT8Wq4)
+
+国际象棋规则
+- 兵的生变
+- 兵的吃过路兵 [--](https://youtu.be/7-_axpT8Wq4?t=28m40s)

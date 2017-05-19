@@ -1,6 +1,6 @@
 
 中国象棋
-- Android 精品中国象棋 [--](http://www.azyxw.com/app/51983/#精品中国象棋1.04.03)
+- Android 精品中国象棋 [--](http://www.azyxw.com/app/51983/#精品中国象棋1.04.03cn.jj.chess)
 - iOS
 
 国际象棋

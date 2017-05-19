@@ -20,9 +20,11 @@ gv 依赖 apple store 和 老爹手机号
 根·两步验证: app store, 某gmail 某hotmail
 ```
 
+<br><br><br>
+[朴素，简约](ttps://github.com/7900ms/notinternet_deserted/blob/master/small/澳洲华人及中国留学生之家.md)
 ```
-email app
-一个匿名软件
+email 联络方式：
+一个匿名方式
 一个学校软件就OK了
 可 额外加 专给银行用的真实账单软件(仅透露给xx银行,它不会瞎卖我地址的)
 可 额外加 专给第二个银行用的真实账单软件(仅透露给xxx银行,它不会瞎卖我地址的。这个邮件不会[轻易透露 就像不在别处用AppleIDEmail)给任何人。卖了也没事)

@@ -7,7 +7,7 @@
 
 总之，所有帐户都可以丢掉 重新申请新的
 
-下等人的瞎折腾，[不需要 省省吧](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-躲避后-侦探游记.md)，这样的话 没有理由被“华而不实的下等玩意”所困住
+下等人的瞎折腾(不仅互相干扰,而且互相融合)，[不需要 省省吧](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-躲避后-侦探游记.md)，这样的话 没有理由被“华而不实的下等玩意”所困住
 
 ```
 两步验证：

@@ -7,6 +7,8 @@
 
 总之，所有帐户都可以丢掉 重新申请新的
 
+下等人的瞎折腾，[不需要 省省吧](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-躲避后-侦探游记.md)
+
 ```
 两步验证：
 一般网页：authy, GV

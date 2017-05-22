@@ -48,4 +48,6 @@ http://tieba.baidu.com/p/3152957061
 
 http://seisman.info/linux-environment-for-seismology-research.html
 
+http://seisman.info/simple-guide-to-seismology.html
+
 -

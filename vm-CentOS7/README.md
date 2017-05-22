@@ -2,7 +2,7 @@
 
 #### 下载版本
 
-CentOS-7 (1611)，December 21, 2016 
+CentOS-7 (1611)，December 21, 2016 `gnome3`
 
 [DVD ISO](https://www.centos.org/download/)
 

@@ -50,4 +50,7 @@ http://seisman.info/linux-environment-for-seismology-research.html
 
 http://seisman.info/simple-guide-to-seismology.html
 
+https://github.com/yan9yu/cde
+
+
 -

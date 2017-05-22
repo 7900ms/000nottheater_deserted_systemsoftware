@@ -1,4 +1,5 @@
 
+
 #### 下载版本
 
 CentOS-7 (1611)，December 21, 2016 
@@ -17,7 +18,9 @@ LXDE
 
 http://chhquan.blog.51cto.com/1346841/1790748
 
+安装完CentOS 7 Minimal之后，从头打造桌面工作环境
 
+http://www.cnblogs.com/oysmlsy/p/4567903.html
 
 
 #### 如果选择 DVD

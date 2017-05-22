@@ -42,4 +42,10 @@ http://www.cnblogs.com/smyhvae/p/3917532.html
 
 http://blog.itist.tw/2014/07/centos7-prepare.html
 
+是的选择的是 gnome3
+
+http://tieba.baidu.com/p/3152957061
+
+http://seisman.info/linux-environment-for-seismology-research.html
+
 -

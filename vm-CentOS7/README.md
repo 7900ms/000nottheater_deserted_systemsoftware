@@ -22,9 +22,13 @@ http://chhquan.blog.51cto.com/1346841/1790748
 
 http://www.cnblogs.com/oysmlsy/p/4567903.html
 
-yum groupinstall "X Window System"
-
+```
+sudo yum install epel-release
+sudo yum groupinstall "X Window system"
+```
 http://www.centoscn.com/m/view.php?aid=623
+
+http://jensd.be/125/linux/rhel/install-mate-or-xfce-on-centos-7
 
 #### 如果选择 DVD
 

@@ -50,6 +50,8 @@ http://seisman.info/linux-environment-for-seismology-research.html
 
 http://seisman.info/simple-guide-to-seismology.html
 
+http://seisman.info/tags/CentOS/
+
 https://github.com/yan9yu/cde
 http://mirrors.163.com/.help/centos.html
 

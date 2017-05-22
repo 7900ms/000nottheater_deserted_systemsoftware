@@ -22,6 +22,9 @@ http://chhquan.blog.51cto.com/1346841/1790748
 
 http://www.cnblogs.com/oysmlsy/p/4567903.html
 
+yum groupinstall "X Window System"
+
+http://www.centoscn.com/m/view.php?aid=623
 
 #### 如果选择 DVD
 

@@ -7,6 +7,7 @@ http://wwww.materdei.org/homestay/Homestay Handbook_Mater Dei High School ____.p
 12 Dos and Don'ts for Homestay Programs | Go Overseas
 G housework homestay
 
+(keep it organized)
 
 ```
 G

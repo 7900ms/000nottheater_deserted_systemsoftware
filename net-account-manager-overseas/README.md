@@ -1,7 +1,7 @@
 
 别人给我的，or 我自己申请的 填给别人的
 
-自己申请的需要管理,cleanliness,tidiness,隔离(并给别人)
+自己申请的需要管理,cleanliness,tidiness,隔离(并给别人：真实机构 or 虚拟机构或及时临时机构(购票))
 
 = = =
 

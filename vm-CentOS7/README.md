@@ -4,7 +4,9 @@
 
 CentOS-7 (1611)，December 21, 2016 `gnome3`
 
-[DVD ISO](https://www.centos.org/download/)
+[LiveGNOME](https://wiki.centos.org/Download)
+
+[DVD ISO 太大了](https://www.centos.org/download/)
 
 Everything-太大了
 

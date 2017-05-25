@@ -24,7 +24,7 @@ http://www.cnblogs.com/oysmlsy/p/4567903.html
 
 ```
 sudo yum install epel-release
-sudo yum groupinstall "X Window system"
+sudo yum groupinstall "X Window system" # (不必, 仅CentOS 6.x需要这样)
 ```
 http://www.centoscn.com/m/view.php?aid=623
 

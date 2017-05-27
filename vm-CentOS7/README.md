@@ -55,4 +55,6 @@ http://seisman.info/tags/CentOS/
 https://github.com/yan9yu/cde
 http://mirrors.163.com/.help/centos.html
 
+https://www.tecmint.com/centos-7-installation/
+
 -

@@ -6,11 +6,11 @@ CentOS-7 (1611)，December 21, 2016 `gnome3`
 
 [大小](https://www.centos.org/download/)：Everythin > DVD ISO > Minimal ISO
 
-我要的 [LiveGNOME](https://wiki.centos.org/Download)
+我要的 ~~[LiveGNOME](https://wiki.centos.org/Download)~~ Minimal
 
 #### 桌面环境 DE
 
-[LXDE](https://wiki.lxde.org/en/Installation)
+~~[LXDE](https://wiki.lxde.org/en/Installation)~~
 
 #### 如果选择 minimal
 

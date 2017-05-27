@@ -10,7 +10,7 @@ CentOS-7 (1611)，December 21, 2016 `gnome3`
 
 #### 桌面环境 DE
 
-~~[LXDE](https://wiki.lxde.org/en/Installation)~~
+~~[LXDE](https://wiki.lxde.org/en/Installation)~~ Xfce
 
 #### 如果选择 minimal
 

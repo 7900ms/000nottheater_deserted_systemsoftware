@@ -12,6 +12,8 @@
 
 [term-Finder-你可能来错地方了](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-Finder-你可能来错地方了.md)
 
+而基于 “自己可能走错地方了” 的可能性，所以不会 “将自己的观点强加于他人” -- 乃说了话要负责的。所以我说的仅限于自己的感受
+
 = = =
 
 为什么？

@@ -20,6 +20,6 @@
 
 主要是感受和练习：感受“不那么弱气”、练习“不那么弱气”。它来自于 对自己的感觉的确认(而不是客观事实的真伪 - <br>此处,已经都是事实了,只不过是各人的站立,各有重心,即各有看重的东西 - 也即选择性报道,选择性看重,这是没问题的:因为我已经 永远不假设人人都该认同我,不假设人人都看重你看重的东西,不把自己的看重强加于人)：
 
-当你一直都 stand to ur exact point (whatever point u stick to, just keep sticking to it), 那么你就不弱气(你的感觉是没变的,你的重心不变)；<br>当你是墙边草随风倒(你的感觉变了,重心不稳了 比如被[收买](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-承认自己来错了地方.md)了之后重心就变了)，那就是弱气。
+当你一直都 stand to ur exact point (whatever point u stick to, just keep sticking to it), 那么你就不弱气(你的感觉是没变的,你的重心不变)；<br>当你是墙边草随风倒(你的感觉变了,重心不稳了 比如被[收买](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-承认自己来错了地方.md)了之后重心就变了眼神都变了)，那就是弱气。
 
 -

@@ -9,3 +9,10 @@
 [“我来错地方啦”的大方承认](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-Finder.md)
 
 [term-Finder-你可能来错地方了](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-Finder-你可能来错地方了.md)
+
+
+主要是感受和练习：感受“不那么弱气”、练习“不那么弱气”。它来自于 对自己的感觉的确认(而不是客观事实的真伪 - 此处,都是事实,只不过是各人的站立,各有重心)：
+
+当你一直都 stand to ur exact point (whatever point u stick to, just keep sticking to it), 那么你就不弱气(你的感觉是没变的,你的重心不变)；<br>当你是墙边草随风倒(你的感觉变了,重心不稳了 比如被[收买](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-承认自己来错了地方.md)了之后重心就变了)，那就是弱气。
+
+-

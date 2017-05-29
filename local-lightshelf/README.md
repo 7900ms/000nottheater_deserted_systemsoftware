@@ -23,3 +23,10 @@
 当你一直都 stand to ur exact point (whatever point u stick to, just keep sticking to it), 那么你就不弱气(你的感觉是没变的,你的重心不变)；<br>当你是墙边草随风倒(你的感觉变了,重心不稳了 比如被[收买](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-承认自己来错了地方.md)了之后重心就变了眼神都变了)，那就是弱气。
 
 -
+
+因为在背书：
+- 所以总是会很弱气 (你背书的对象被打成了筛子,那么你也会被打成筛子)
+- 所以总是感觉自己拎不清、被误解
+- 别人会觉得, 你背书的玩意有毒, 你也有毒啊
+
+-

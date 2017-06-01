@@ -7,6 +7,8 @@
 
 = = =
 
+light heart 九宫格
+
 心里知道永远都不假设人人都该认同他的，永远不假设人人都该认同我，心里知道永远不假设 “每个人都走对了地方”，心里知道永远知道人是会犯迷糊了走错地方了 (迷途的羔羊)：
 [“我来错地方啦”的大方承认](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-Finder.md)
 
@@ -15,6 +17,8 @@
 而基于 “自己可能走错地方了” 的可能性，所以不会 “将自己的观点强加于他人” -- 自己走错了 [还顾得上](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-Finder.md#而是想着：原来丫是这样的人。我要加入还是要躲避)管他人么。所以我说的仅限于自己的感受
 
 = = =
+
+heavy heart 何时：和陪审团解释 (和陪审团不用 light heart)
 
 为什么？
 

@@ -31,6 +31,8 @@ light-hearted是休息时光, 有愠怒
 
 [!!!](https://twitter.com/renjianliechu/status/870662174384898048#我感觉自己来错地方了，但-当着陪审团-我必须说话，说自己的话)
 
+[-](https://twitter.com/badiucao/status/858247424401317888) [1](https://twitter.com/Suyutong/status/870645665189298176#公共话题之释放受害者) [2](https://twitter.com/Suyutong/status/870293770629206016#公共场合公共话题) [3](https://twitter.com/Suyutong/status/870238555913768960#警惕学生会)
+
 #### 走错地方
 
 基本素质的获得[：](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-Finder-你可能来错地方了.md)

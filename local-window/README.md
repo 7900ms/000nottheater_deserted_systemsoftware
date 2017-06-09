@@ -18,3 +18,8 @@
 万用语: 你会不会选啊? (而不是 该怎么选，因为 会受到攻击 [1](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/tram-物质世界.md#店家会来暴力推销东西。任何一个元素说出来-店家都想着给你怼回去-他是攥钱图利的!))
 
 
+= = =
+
+好结果[：](#come-within-itself)
+1 [-](https://twitter.com/bestfriendze/status/869130780227665921) [2](https://twitter.com/Gabrielvr22/status/833678520404627456#a-diff)<br>
+2 smart, AND not hard 的心理素质(知道会发生什么但不沾沾自喜)(结果 + not a big deal = 不受攻击)

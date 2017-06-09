@@ -15,6 +15,6 @@
 
 万用语: 我就看看 谁跟这订啊? (而不是 你这么贵谁跟这买啊，因为 `有可能，只要形成意向，一旦暴露就 就会受到攻击` [-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-打火机.md))
 
-万用语: 你会不会选啊? (而不是 该怎么选，因为 会受到攻击 [1](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/tram-物质世界.md#店家会来暴力推销东西))
+万用语: 你会不会选啊? (而不是 该怎么选，因为 会受到攻击 [1](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/tram-物质世界.md#店家会来暴力推销东西。任何一个元素说出来-店家都想着给你怼回去-他是攥钱图利的!))
 
 

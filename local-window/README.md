@@ -36,7 +36,7 @@
 别人可能不是这样: <br>
 1.我绝对不用别人的话来说自己的感觉 <br>
 2.考虑到别人可能发狂->自己[不招人烦](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-打火机补充.md#对东西最高的评价:好用,有用;对人最高的评价:好用,有用,不招人烦---时间地点人物事件-每时刻都没招人烦诶这太难了所以能做到就很棒)<br>
-3.自己发毒可以,毒到我了就不要
+3.自己发毒可以,毒到我了就不要,我不可怜的[-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-打火机补充.md)
 ```
 有可能，只要形成意向，一旦暴露就 就会受到攻击 ---> 过程、形象、结果 可能受到攻击
 -----> 我可能不会上当 所以不用易碎品(过程,形象)作打火机 [ 叫人用 过程or形象 作为打火机，是有毒的 ]

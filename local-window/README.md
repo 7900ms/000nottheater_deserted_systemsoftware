@@ -22,4 +22,4 @@
 
 好结果[：](#come-within-itself) <br>
 1 [-](https://twitter.com/bestfriendze/status/869130780227665921) [-](https://twitter.com/Gabrielvr22/status/833678520404627456#a-diff)<br>
-2 smart, AND not hard 的心理素质(知道会发生什么但不沾沾自喜)(结果 + not a big deal = 不受攻击 aka 这本身就是最大的奖励)
+2 smart, AND not hard 的心理素质(知道会发生什么但不沾沾自喜)(结果 + not a big deal = 不受攻击 aka 这本身就是最大的奖励[)](http://w/#如果乃知道被攻击的会无孔不入地来被攻击而死得多么惨)

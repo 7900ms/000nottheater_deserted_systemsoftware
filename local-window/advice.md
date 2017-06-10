@@ -15,6 +15,6 @@
 - (权限不足 不会乱来。觉得你烦 自己躲开)
 - (要么 找一群人 时间花得有意义，要么 极端条件 时间花得有收获)
 
-- 善良的花房姑娘 那不是做工作 不叫接触社会 (没人来害你哈)
+- 善良的花房姑娘 那不是做工作 不叫接触社会 (没人来害你哈) 那叫做公益
 
 [-](https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/t.md#大美女，就是树大招风)

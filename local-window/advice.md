@@ -13,6 +13,7 @@
 - 大家都知道 涉及到钱的玩意 可能永远都不会有同盟的，唯一的同盟就是自己
 - (学识浅薄，喜好卖弄 会被人轰下台)
 - (权限不足 不会乱来。觉得你烦 自己躲开)
+- (要么 找一群人 时间花得有意义，要么 极端条件 时间花得有收获)
 
 
 [-](https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/t.md#大美女，就是树大招风)

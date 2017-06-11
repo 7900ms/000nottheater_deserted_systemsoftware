@@ -105,6 +105,8 @@ Cloudflare 才是老大 (国外来说) https://www.v2ex.com/t/320418#reply11
 
 +博士毕业 fb 面试 后来去读 PHD 了 https://justyy.com/archives/922
 
++权限定价：给主机商 https://justyy.com/archives/780 https://justyy.com/archives/783#老实地用着我的shared hosting-无root权限也不需要
+
 #### 有保证：学业证书
 
 学术 https://justyy.com/archives/2955
@@ -144,6 +146,8 @@ https://ehikioya.com/online-ruler
 +婚礼(2012) https://steakovercooked.com/wedding/schedule-wedding-ceremony/ https://justyy.com/archives/2385#应该能看出来对方对你的感觉是不是很强(对你的性欲强不强)。一是你自己，二是对方的开朗性格(对历届BF都性欲强的-由头-真实惠--不把婚姻看作金钱交换)
 
 +家庭称谓计算器 https://justyy.com/archives/3418/
+
++姿色对比/对你的性欲对比 夜店女 平面模特 老婆, https://justyy.com/archives/2955 , https://uploadbeta.com/share-picture/7xy , https://justyy.com/archives/2385 
 
 #### 整体形象
 

@@ -40,8 +40,8 @@ The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds
 
 (要么态度降低,要么个性降低) 态度(特指对他人的尊重性):怕人生气，个性(对自己的尊重性/浓度):怕自己上当/被人下套 <最低的态度,最高的个性:第一次外国汇钱6万刀,提前功课-当场看你们就不靠谱我直接找你们银行高层领导> ref浓度-> https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/on-jianghu/维吾尔族裔-形象-热情开朗(个人的庄重非常重要).md
 
-(男人不怕色的，阅尽千帆 依然选你才是棒。aka 能看能用 和 能看 是不一样的)
-(对一个男人有好印象 老实见识多正经+不公开标准无碍的+有高学历(not精明)+给人真实惠，才会对他们夫妇有好印象。对他们的夫妻生活 即使看起来傻气 也觉得有大智慧 - 我感觉 挺好的)(否则啊，嫌弃挑剔警惕 我感觉自己走错地方了 应付的话:还没有/没想过。。只有几个破钱的没感觉!)
++(男人不怕色的，阅尽千帆 依然选你才是棒。aka 能看能用 和 能看 是不一样的)
++(对一个男人有好印象 老实见识多正经+不公开标准无碍的+有高学历(not精明)+给人真实惠，才会对他们夫妇有好印象。对他们的夫妻生活 即使看起来傻气 也觉得有大智慧 - 我感觉 挺好的)(否则啊，嫌弃挑剔警惕 我感觉自己走错地方了 应付的话:还没有/没想过。。只有几个破钱的没感觉!)
 
 = = =
 
@@ -76,7 +76,7 @@ UK
 
 几个站广告费加起来，好的时候 100 英镑，平均 30 英镑每个月 https://www.v2ex.com/t/323130
 
-UK 找工作 https://justyy.com/archives/922
++UK 找工作 https://justyy.com/archives/922
 
 #### 信息超过个人喜爱
 
@@ -91,21 +91,21 @@ https://www.v2ex.com/t/337068#justyy
 分清楚 [1](https://github.com/7900ms/notinternet_deserted/blob/master/focus/在金融公司做IT.md)
 PHP - web
 
-why not Ubuntu https://www.v2ex.com/t/332126?p=1 # 不公开标准 https://justyy.com/archives/783
++why not Ubuntu https://www.v2ex.com/t/332126?p=1 # 不公开标准 https://justyy.com/archives/783#VPS+ubuntu
 
 文档即时备份(每时每刻ctrl+s+U盘里操作) https://www.v2ex.com/t/327955#reply55#Dropbox 
 
 Cloudflare 才是老大 (国外来说) https://www.v2ex.com/t/320418#reply11
 
-博士毕业 fb 面试 后来去读 PHD 了 https://justyy.com/archives/922
++博士毕业 fb 面试 后来去读 PHD 了 https://justyy.com/archives/922
 
 #### 有保证：学业证书
 
 学术 https://justyy.com/archives/2955
 
-当时毕业时的兴奋 为了 一个 ‘Doctor’ 的称号奋斗了三年多！！！
++当时毕业时的兴奋 为了 一个 ‘Doctor’ 的称号奋斗了三年多！！！
 
-名字就用自己的 Zhihua Lai
++名字就用自己的 Zhihua Lai
 
 #### 兴趣爱好
 
@@ -130,12 +130,12 @@ DELPHI + C#, C++(写算法,过滤掉弱智世界), JS, PHP, PYTHON, R, VBSCRIPT 
 
 作为老司机 告诉你， 早上做爱 是最爽的 早上 你的小弟弟 是立着的， 然后被 裹醒，那种感觉真的是要上天了 https://www.v2ex.com/t/338268#reply116
 
-在线尺子(校正：分辨率 resolution ~1152×720，屏幕尺寸 screen dimension ~13.3) https://justyy.com/archives/3425 
++在线尺子(校正：分辨率 resolution ~1152×720，屏幕尺寸 screen dimension ~13.3) https://justyy.com/archives/3425 
 https://ehikioya.com/online-ruler
 
-手机 https://justyy.com/archives/3431
++手机 RAM 3G 内置存储32GB, 可以加Micro SD卡(最大支持256GB) https://justyy.com/archives/3431
 
-婚礼(2012) https://steakovercooked.com/wedding/schedule-wedding-ceremony/ https://justyy.com/archives/2385
++婚礼(2012) https://steakovercooked.com/wedding/schedule-wedding-ceremony/ https://justyy.com/archives/2385
 
 #### 整体形象
 

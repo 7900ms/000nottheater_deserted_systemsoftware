@@ -18,3 +18,6 @@
 - 善良的花房姑娘 那不是做工作 不叫接触社会 (没人来害你哈) 那叫做公益
 
 [-](https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/t.md#大美女，就是树大招风)
+
+
+天啊：这个人，靶子树的，够死100回[-](https://www.zhihu.com/question/28137703/answer/39816223#被下套+公开自己的标准+为某组织背书=可以被打出筛子来+反应慢) [1](https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/人物动机.md)[2](https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/不公开标准.md)[3](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/local-lightshelf)[4](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/supplementary/Zhihua)

@@ -119,6 +119,8 @@ DELPHI + C#, C++(写算法,过滤掉弱智世界), JS, PHP, PYTHON, R, VBSCRIPT 
 
 作为老司机 告诉你， 早上做爱 是最爽的 早上 你的小弟弟 是立着的， 然后被 裹醒，那种感觉真的是要上天了 https://www.v2ex.com/t/338268#reply116
 
+在线尺子 https://justyy.com/archives/3425
+
 #### 整体形象
 
 独行侠 + 助人为乐

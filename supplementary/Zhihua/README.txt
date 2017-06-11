@@ -49,6 +49,8 @@ https://codingforspeed.com/#快,有人要啊 唯快不破
 +工作就是身份，英国永居最大的意义就是能自由工作了 。。你之前的脑子可以完全放弃的，在新环境新身份和新人干新事情填满新时间。(完全放弃?至少身份不错乱，明确之前是农民,现在是工人.去农民身份拿东西之前,先看看工厂的工人们都用什么)(身份不干扰!!! 不管你以前干啥,现在就是新身份,新学号。除非你能走)
 (不同的身份，能互通的唯一东西：语言！！！！！！！！！！！！！！！！ )
 
++(要么,要么，要么融入组织，要么很有个性) 
+
 = = =
 
 #### 背景
@@ -109,7 +111,7 @@ Cloudflare 才是老大 (国外来说) https://www.v2ex.com/t/320418#reply11
 
 +博士毕业 fb 面试 后来去读 PHD 了 https://justyy.com/archives/922
 
-+权限定价：给主机商 https://justyy.com/archives/780 https://justyy.com/archives/783#老实地用着我的shared hosting-无root权限也不需要
++权限定价：给主机商 shared hosting https://justyy.com/archives/780 https://justyy.com/archives/783#老实地用着我的shared hosting-无root权限也不需要 https://justyy.com/archives/3022#shared hosting
 
 #### 有保证：学业证书
 

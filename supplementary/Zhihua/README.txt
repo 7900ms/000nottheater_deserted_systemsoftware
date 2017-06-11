@@ -88,7 +88,7 @@ https://www.v2ex.com/t/337068#justyy
 分清楚 [1](https://github.com/7900ms/notinternet_deserted/blob/master/focus/在金融公司做IT.md)
 PHP - web
 
-why not Ubuntu https://www.v2ex.com/t/332126?p=1 # 不公开标准
+why not Ubuntu https://www.v2ex.com/t/332126?p=1 # 不公开标准 https://justyy.com/archives/783
 
 文档即时备份(每时每刻ctrl+s+U盘里操作) https://www.v2ex.com/t/327955#reply55#Dropbox 
 

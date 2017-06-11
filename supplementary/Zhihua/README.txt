@@ -40,7 +40,7 @@ The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds
 
 (要么态度降低,要么个性降低) 态度(特指对他人的尊重性):怕人生气，个性(对自己的尊重性/浓度):怕自己上当/被人下套 <最低的态度,最高的个性:第一次外国汇钱6万刀,提前功课-当场看你们就不靠谱我直接找你们银行高层领导> ref浓度-> https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/on-jianghu/维吾尔族裔-形象-热情开朗(个人的庄重非常重要).md
 
-(男人不怕色的，阅尽千帆 依然选你才是棒)
+(男人不怕色的，阅尽千帆 依然选你才是棒。aka 能看能用 和 能看 是不一样的)
 
 = = =
 

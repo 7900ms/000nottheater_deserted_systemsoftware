@@ -1,4 +1,7 @@
 
+时机：
+休闲时光 - https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/local-window
+
 #### 背景
 
 #### 学业优异
@@ -29,6 +32,14 @@ I write highly optimized code (which uses less memory and executes faster).
 For example, for Problem 1532 on ACM timus Online Judge, my submission ranks the second.
 The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. 
 
+#### 写作过程
+
+1h之后明显累了饿了
+
+没信一个人(为了某目的,我觉得我100%跟你走了我也掉坑里的)，说啥都没用的 真的 - (要么目的降低,要么可信度降低) 目的:娱乐或参考或嫌弃，可信度:看得过去的墙外高学历 <最低的目的,最高的可信度:来个维秘小姐,我也不要不被收买我嫌弃>
+
+(要么态度降低,要么个性降低) 态度(特指对他人的尊重性):怕人生气，个性(对自己的尊重性/浓度):怕自己上当/被人下套 <最低的态度,最高的个性:第一次外国汇钱6万刀,提前功课-当场看你们就不靠谱我直接找你们银行高层领导> ref浓度-> https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/on-jianghu/维吾尔族裔-形象-热情开朗(个人的庄重非常重要).md
+
 = = =
 
 #### 背景
@@ -39,9 +50,14 @@ The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds
 
 学费是全奖，生活费自己打工挣的
 
-2003 年参加 NOIP 三等奖(无高考加分),二本(439分)没上去 在英国有房有车有老婆有两娃 https://www.v2ex.com/t/320117 
+2003 年参加 NOIP 三等奖(无高考加分),二本(439分)没上去 在英国有房有车有老婆有两娃(2017年32岁) https://www.v2ex.com/t/320117 
 
 #### 学业优异
+
+本科2004-2006(21),博士2006-2010(25)
+
+GPA:
+15.5125 out of 16. First Class Hons
 
 #### 在好地界
 
@@ -51,9 +67,9 @@ UK
 
 更多 金钱信息 (buck, bucket)
 
-200 多英镑一个手机，心疼啊 https://www.v2ex.com/t/331872
+200 多英镑一个手机(1730RMB,340澳元)，心疼啊 https://www.v2ex.com/t/331872
 
-来英国吧， 我在英国， 治安还可以。 https://www.v2ex.com/t/326797#reply147
+来英国吧，我在英国，治安还可以。 https://www.v2ex.com/t/326797#reply147
 
 几个站广告费加起来，好的时候 100 英镑，平均 30 英镑每个月 https://www.v2ex.com/t/323130
 
@@ -97,7 +113,9 @@ https://www.v2ex.com/t/336428 # chrome 插件
 
 crontab-generator
 
-DELPHI + C#, C++, JS, PHP, PYTHON, R, VBSCRIPT https://www.v2ex.com/t/274092  https://www.v2ex.com/t/323130 (资讯小站长)
+DELPHI + C#, C++(写算法,过滤掉弱智世界), JS, PHP, PYTHON, R, VBSCRIPT https://www.v2ex.com/t/274092  https://www.v2ex.com/t/323130 (资讯小站长)
+
+作为老司机 告诉你， 早上做爱 是最爽的 早上 你的小弟弟 是立着的， 然后被 裹醒，那种感觉真的是要上天了 https://www.v2ex.com/t/338268#reply116
 
 #### 整体形象
 

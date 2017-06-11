@@ -140,6 +140,8 @@ https://ehikioya.com/online-ruler
 
 +婚礼(2012) https://steakovercooked.com/wedding/schedule-wedding-ceremony/ https://justyy.com/archives/2385#应该能看出来对方对你的感觉是不是很强(对你的性欲强不强)。一是你自己，二是对方的开朗性格(对历届BF都性欲强的-由头-真实惠--不把婚姻看作金钱交换)
 
++家庭称谓计算器 https://justyy.com/archives/3418/
+
 #### 整体形象
 
 独行侠 + 助人为乐

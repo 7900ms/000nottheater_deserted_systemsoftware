@@ -31,7 +31,7 @@ Stackoverflow 版本: https://stackoverflow.com/cv/steakovercooked
 I write highly optimized code (which uses less memory and executes faster). 
 For example, for Problem 1532 on ACM timus Online Judge, my submission ranks the second.
 The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. 
-https://codingforspeed.com/
+https://codingforspeed.com/#快,有人要啊
 
 #### 写作过程
 

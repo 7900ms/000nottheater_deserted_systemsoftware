@@ -92,6 +92,9 @@ https://www.v2ex.com/t/337068#justyy
 
 分清楚 [1](https://github.com/7900ms/notinternet_deserted/blob/master/focus/在金融公司做IT.md)
 PHP - web
+内网可控数据 .NET
+内网/外网 算法 C++
+在英国 .NET 比 Java 火 https://www.v2ex.com/t/367276
 
 +why not Ubuntu https://www.v2ex.com/t/332126?p=1 # 不公开标准 https://justyy.com/archives/783#VPS+ubuntu
 + ssh WinCRT https://www.v2ex.com/t/330465  https://justyy.com/archives/781, https://justyy.com/archives/780
@@ -127,9 +130,9 @@ https://www.v2ex.com/t/336428 # chrome 插件
 
 看春晚就跟看大熊猫一样 🐼
 
-crontab-generator
+crontab-generator https://www.v2ex.com/t/360510
 
-DELPHI + C#, C++(写算法,过滤掉弱智世界), JS, PHP, PYTHON, R, VBSCRIPT https://www.v2ex.com/t/274092  https://www.v2ex.com/t/323130 (资讯小站长)
+DELPHI + C#, C++(2004年写算法,过滤掉弱智世界), JS, PHP, PYTHON, R, VBSCRIPT https://www.v2ex.com/t/274092  https://www.v2ex.com/t/323130 (资讯小站长)
 
 作为老司机 告诉你， 早上做爱 是最爽的 早上 你的小弟弟 是立着的， 然后被 裹醒，那种感觉真的是要上天了 https://www.v2ex.com/t/338268
 

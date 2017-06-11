@@ -116,6 +116,8 @@ Cloudflare 才是老大 (国外来说) https://www.v2ex.com/t/320418#reply11
 
 +名字就用自己的 Zhihua Lai
 
+拿了很多网络资格证书 https://justyy.com/archives/2017
+
 #### 兴趣爱好
 
 https://www.v2ex.com/t/335032

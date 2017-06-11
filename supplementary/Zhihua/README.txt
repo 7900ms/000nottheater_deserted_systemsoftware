@@ -43,6 +43,8 @@ The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds
 +(男人不怕色的，阅尽千帆 依然选你才是棒。aka 能看能用 和 能看 是不一样的)
 +(对一个男人有好印象 老实见识多正经+不公开标准无碍的+有高学历(not精明)+给人真实惠，才会对他们夫妇有好印象。对他们的夫妻生活 即使看起来傻气 也觉得有大智慧 - 我感觉 挺好的)(否则啊，嫌弃挑剔警惕 我感觉自己走错地方了 应付的话:还没有/没想过。。只有几个破钱的没感觉!)
 
+对一个人的精神 感受,饿了,对一个人的用的工具 八卦
+
 = = =
 
 #### 背景
@@ -92,6 +94,7 @@ https://www.v2ex.com/t/337068#justyy
 PHP - web
 
 +why not Ubuntu https://www.v2ex.com/t/332126?p=1 # 不公开标准 https://justyy.com/archives/783#VPS+ubuntu
++ ssh WinCRT https://www.v2ex.com/t/330465  https://justyy.com/archives/781, https://justyy.com/archives/780
 
 文档即时备份(每时每刻ctrl+s+U盘里操作) https://www.v2ex.com/t/327955#reply55#Dropbox 
 
@@ -128,14 +131,14 @@ crontab-generator
 
 DELPHI + C#, C++(写算法,过滤掉弱智世界), JS, PHP, PYTHON, R, VBSCRIPT https://www.v2ex.com/t/274092  https://www.v2ex.com/t/323130 (资讯小站长)
 
-作为老司机 告诉你， 早上做爱 是最爽的 早上 你的小弟弟 是立着的， 然后被 裹醒，那种感觉真的是要上天了 https://www.v2ex.com/t/338268#reply116
+作为老司机 告诉你， 早上做爱 是最爽的 早上 你的小弟弟 是立着的， 然后被 裹醒，那种感觉真的是要上天了 https://www.v2ex.com/t/338268
 
 +在线尺子(校正：分辨率 resolution ~1152×720，屏幕尺寸 screen dimension ~13.3) https://justyy.com/archives/3425 
 https://ehikioya.com/online-ruler
 
 +手机 RAM 3G 内置存储32GB, 可以加Micro SD卡(最大支持256GB) https://justyy.com/archives/3431
 
-+婚礼(2012) https://steakovercooked.com/wedding/schedule-wedding-ceremony/ https://justyy.com/archives/2385
++婚礼(2012) https://steakovercooked.com/wedding/schedule-wedding-ceremony/ https://justyy.com/archives/2385#应该能看出来对方对你的感觉是不是很强(对你的性欲强不强)。一是你自己，二是对方的开朗性格(对历届BF都性欲强的-由头-真实惠--不把婚姻看作金钱交换)
 
 #### 整体形象
 

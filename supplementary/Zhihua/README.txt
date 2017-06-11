@@ -52,7 +52,7 @@ The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds
 
 学费是全奖，生活费自己打工挣的
 
-2003 年参加 NOIP 三等奖(无高考加分),二本(439分)没上去 在英国有房有车有老婆有两娃(2017年32岁) https://www.v2ex.com/t/320117 
+2003 年参加 NOIP 三等奖(无高考加分),二本(439分)没上去 在英国有房有车有老婆(2012,27,2)有两娃(2017,32,7) https://www.v2ex.com/t/320117 
 
 #### 学业优异
 
@@ -121,6 +121,10 @@ DELPHI + C#, C++(写算法,过滤掉弱智世界), JS, PHP, PYTHON, R, VBSCRIPT 
 
 在线尺子(校正：分辨率 resolution ~1152×720，屏幕尺寸 screen dimension ~13.3) https://justyy.com/archives/3425 
 https://ehikioya.com/online-ruler
+
+手机 https://justyy.com/archives/3431
+
+婚礼(2012) https://steakovercooked.com/wedding/schedule-wedding-ceremony/
 
 #### 整体形象
 

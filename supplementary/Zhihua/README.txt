@@ -157,7 +157,7 @@ https://ehikioya.com/online-ruler
 
 +家庭称谓计算器 https://justyy.com/archives/3418/
 
-+姿色对比/对你的性欲对比 夜店女 平面模特 老婆, https://justyy.com/archives/2955+https://justyy.com/about#眼神里不变的-活力-胸大自信 , https://uploadbeta.com/share-picture/7xy , https://justyy.com/archives/2385 
++姿色对比/对你的性欲对比 夜店女 平面模特 老婆, https://justyy.com/archives/2955+https://justyy.com/about+https://justyy.com/archives/4527#眼神里不变的-活力-胸大自信(我有的-你没有的-我保持得好的-你失去了的) , https://uploadbeta.com/share-picture/7xy , https://justyy.com/archives/2385 
 
 啥都快, 上学快,找工作快,找LP快 https://justyy.com/archives/603
 

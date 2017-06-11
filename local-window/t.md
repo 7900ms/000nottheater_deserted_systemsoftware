@@ -11,4 +11,6 @@
 
 
 
-[ 别人会以`学识浅薄 喜好卖弄-求关注`把人轰下台 ]
+[ 别人会以`学识浅薄 喜好卖弄-求关注`把人轰下台 [\]](https://twitter.com/ItsLifeFact/status/873893831275630594#look-like-an-idiot-trying-to-get-your-attention##最好的是,我没有很费劲的去争取眼光而大家都在看我ORRRRR我根本不需要别人看我别人也正好没有看我)
+
+

@@ -1,7 +1,7 @@
 
 BOX 架构
 
-BOX：
+BOX[：](https://twitter.com/World_Wide_Wob/status/873377261059231744#不上套的。而且化为力量,这真的需要BOX)
 - 安全不溢出
 - 不公开标准, 黑盒
 - 窗外 - 小说家 - BOX

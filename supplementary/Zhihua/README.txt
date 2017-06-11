@@ -102,6 +102,8 @@ PHP - web
 内网/外网 算法 C++
 在英国 .NET 比 Java 火 https://www.v2ex.com/t/367276
 
++研究性质的软件工程师,花更多的时间在开发软件而不是进行研究,尽管你写的软件很重要 但是经常发表文章里没有你的名字 https://justyy.com/archives/3021
+
 +why not Ubuntu https://www.v2ex.com/t/332126?p=1 # 不公开标准 https://justyy.com/archives/783#VPS+ubuntu
 + ssh WinCRT https://www.v2ex.com/t/330465  https://justyy.com/archives/781, https://justyy.com/archives/780
 

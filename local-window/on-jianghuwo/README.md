@@ -23,7 +23,7 @@ on-jianghuwo 江湖我
 - 别人不重要，我重要
 - tip: 嫌弃 可以立即让我恢复正义性
 - 做事，自愿 请求授权之后做
-- 寡不敌众时，用计谋
+- 寡不敌众时[，](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/tram-寡可敌众.md)用计谋
 
 
 

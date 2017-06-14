@@ -23,7 +23,7 @@
 
 [-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-人对人的段位.md)
 
-不管跟谁说话，都看清前提
+自带 “外企做事文化” 不管跟谁说话，都看清前提
 
 [-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-讲前提.md)
 

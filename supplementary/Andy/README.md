@@ -11,6 +11,8 @@
 
 一个自愿的人，一个聪明人
 
+西式教育下，能看出圈套来 人格更丰富 像小说家 不公开标准-只说自己的感觉(诶反正别人也不在乎我的看法(我也就不教育别人判断别人了)-只看重我的做事-做事讲前提)
+
 [-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-人对人的段位.md)
 
 #### 和人交流

@@ -39,3 +39,14 @@
 
 开车20分钟到公司，安静，周围有公园 [-](http://www.sohu.com/a/145300142_155248)
 
+#### 其他
+
+很上镜 
+
+[-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-更上镜.md)
+
+没有的：摆POSE+风骚
+
+[-]()
+
+

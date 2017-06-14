@@ -15,6 +15,8 @@
 
 [-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-人对人的段位.md)
 
+[-](https://github.com/7900ms/000nottheater_deserted_systemsoftware/blob/master/local-window/人物动机.md)
+
 #### 和人交流
 
 聪明人对聪明人。知道 曲有看不起的人，但我不会言语相讽，反而会想帮助
@@ -27,7 +29,7 @@
 
 后果论就是损失论
 
-[-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-(后果论损失论)自愿争先-在学校.md)
+[-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-(后果论损失论)自愿争先-在学校.md#邻里之间大不了当作不认识，没关系的)
 
 为什么愿意开门 本可以自己呆着的
 

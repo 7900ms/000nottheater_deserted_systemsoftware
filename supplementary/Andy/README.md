@@ -9,7 +9,9 @@
 
 #### 身份
 
-一个自愿的人，一个聪明人 [-]()
+一个自愿的人，一个聪明人
+
+[-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-人对人的段位.md)
 
 #### 和人交流
 

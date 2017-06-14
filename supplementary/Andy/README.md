@@ -47,6 +47,7 @@
 
 没有的：摆POSE+风骚
 
-[-]()
+[-](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-人对人的段位.md#男摆POSE，女风骚。好看的人就是用来看的)
+
 
 

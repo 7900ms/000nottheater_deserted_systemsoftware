@@ -16,4 +16,5 @@ link:
 https://github.com/7900ms/notinternet_deserted/tree/master/supplementary
 https://github.com/7900ms/000nottheater_deserted_systemthunder/tree/master/slow/on-muscle
 https://www.zhihu.com/question/29605284/answer/159130898
+https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/week-更上镜.md#红色人士也会摆POSE。有“这副好身躯-赋予其意义”的--身份的对抗-和红色人士对抗
 ```

@@ -14,8 +14,13 @@ https://www.adelaidemetro.com.au/FAQs
 https://www.adelaidemetro.com.au/FAQs#faq-969f
 https://www.adelaidemetro.com.au/Tickets/Fares#2_Section_Metrocard
 /supplementary/说明
-按次收费(一个section一收费)，上车刷卡(下车不用刷),[票价3.62/1.99](https://www.adelaidemetro.com.au/Tickets/Fares)
+按次收费(一个section一收费)，上车刷卡(下车不用刷),[刷卡票价3.62/1.99](https://www.adelaidemetro.com.au/Tickets/Fares)
 学生票很便宜
+按次收费(一次刷卡管2小时)
+ticket 是一次刷卡管2小时 Singletrip ticket can be used to transfer to any bus, tram or train service within 2 hours of first validation  https://adelaidemetro.com.au/Tickets/Metrotickets
+ticket 的升级版是 card, card 更便宜, card provide access to cheaper fares than singletrip tickets https://adelaidemetro.com.au/Tickets/Metrocard/New-to-metrocard
+ticket 的特殊版本：Daytrip Metroticket ($10) https://adelaidemetro.com.au/Tickets/Metrotickets
+场景：何时用 Daytrip Metroticket 更划算？ 一天坐车2次以上 or 一天坐车到处跑 https://adelaidemetro.com.au/Tickets/Metrotickets
 
 /supplementary/遨游/关于metroCard
 需要先 注册 account (可以查询乘车历史...可以给卡片自动充值...)然后 把自己的(多张)关联到这个account上
@@ -65,6 +70,8 @@ pic 车内刷卡
 https://www.adelaidemetro.com.au/Tickets/Metrocard
 https://www.adelaidemetro.com.au/Tickets/Metrocard/Travel-with-a-metrocard
 
+车与时间 (何时用metroCard合适、何时用ticket合适)
+https://adelaidemetro.com.au/Tickets/Metrotickets
 
 
 -

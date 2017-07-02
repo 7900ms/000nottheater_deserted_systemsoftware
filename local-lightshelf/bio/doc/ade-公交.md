@@ -92,5 +92,7 @@ https://adelaidemetro.com.au/Tickets/Metrotickets
 
 文字 注册卡片
 https://mc.adelaidemetro.com.au/
+文字 刷卡
+https://www.adelaidemetro.com.au/FAQs#faq-991
 
 -

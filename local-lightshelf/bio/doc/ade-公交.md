@@ -22,6 +22,7 @@ https://www.adelaidemetro.com.au/Tickets/Fares#2_Section_Metrocard
 https://www.adelaidemetro.com.au/FAQs#faq-32533
 公交卡充值
 https://www.adelaidemetro.com.au/FAQs#faq-2127
+https://adelaidemetro.com.au/Tickets/Metrocard/Set-up-auto-recharge # 自动充值 关联 your nominated Visa or MasterCard credit card (prepaid credit cards invalid), Credit Card transactions 可查
 公交卡其他
 https://mc.adelaidemetro.com.au/
 https://www.adelaidemetro.com.au/Tickets/Metrocard
@@ -43,6 +44,10 @@ https://www.adelaidemetro.com.au/routes/Tram
 3.
 上车
 
+/supplementary/遨游
+validate when boarding the service 上车刷卡
+https://adelaidemetro.com.au/Tickets/Metrocard/Travel-with-a-metrocard
+
 
 
 3.
@@ -55,6 +60,10 @@ https://www.adelaidemetro.com.au/routes/Tram
 
 
 了解区：
+
+pic 车内刷卡
+https://www.adelaidemetro.com.au/Tickets/Metrocard
+https://www.adelaidemetro.com.au/Tickets/Metrocard/Travel-with-a-metrocard
 
 
 

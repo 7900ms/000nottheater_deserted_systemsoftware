@@ -7,6 +7,22 @@
 
 购买 ticket 或 买 regular metroCard 并充值
 
+/supplementary/说明/车票计时-车票种类
+https://www.adelaidemetro.com.au/FAQs#faq-970
+1. 两小时之内随便坐 (Single trip: A singletrip metroticket)  卡3.62/1.99
+2. 全天之内随便坐 (Day trip: A daytrip metroticket)          票10.20
+3. 两个路程的 (Two Section travel: A Two Section fare)      卡3.4/2.5
+
+/supplementary/说明/如何上车
+https://www.adelaidemetro.com.au/FAQs#faq-991
+1. 招手上车
+
+票价
+https://www.adelaidemetro.com.au/FAQs#faq-971
+https://www.adelaidemetro.com.au/Tickets/Fares
+
+= =
+
 /supplementary/遨游
 https://www.adelaidemetro.com.au/FAQs
 /supplementary/遨游/关于section

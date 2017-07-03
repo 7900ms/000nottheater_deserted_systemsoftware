@@ -27,6 +27,9 @@ https://www.adelaidemetro.com.au/Tickets/Fares
 https://www.adelaidemetro.com.au/Tickets/Fares#2_Section_Metrocard
 http://imgur.com/vlb3mvS
 
+车内景色
+http://www.adelaidemetro.com.au/Using-Adelaide-Metro/Accessibility-Disability
+
 = =
 
 /supplementary/遨游

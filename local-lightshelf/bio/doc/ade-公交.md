@@ -23,12 +23,16 @@ https://www.adelaidemetro.com.au/FAQs#faq-991
 https://www.adelaidemetro.com.au/FAQs#faq-971
 https://www.adelaidemetro.com.au/Tickets/Fares
 
+2 Section Metrocard 图示
+https://www.adelaidemetro.com.au/Tickets/Fares#2_Section_Metrocard
+http://imgur.com/vlb3mvS
+
 = =
 
 /supplementary/遨游
 https://www.adelaidemetro.com.au/FAQs
 /supplementary/遨游/关于section
-因为它和普通卡的价格差很小可忽略不计，所以就用普通卡(regular MetroCard)就好 (不用 Two Section travel 或关注 Two Section fare)
+因为它和普通卡的价格差很小可忽略不计，所以就用普通卡(regular MetroCard)就好 (用！ Two Section travel 或关注 Two Section fare)
 https://www.adelaidemetro.com.au/FAQs#faq-969f
 https://www.adelaidemetro.com.au/Tickets/Fares#2_Section_Metrocard
 /supplementary/说明
